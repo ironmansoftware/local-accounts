@@ -1,0 +1,1 @@
+﻿New-PSUDashboard -Name "LocalAccounts" -FilePath "dashboards\LocalAccounts\LocalAccounts.ps1" -BaseUrl "/local-accounts" -Authenticated -AutoDeploy

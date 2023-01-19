@@ -1,6 +1,6 @@
 {
-    "description": "This template was generated with the PowerShell Universal Template repository.",
-    "name": "PowerShell Universal Template",
-    "version": "1.0.1",
+    "description": "A dashoard for viewing and edit local accounts.",
+    "name": "Local Accounts Dashboard",
+    "version": "1.0.0",
     "variables": []
 }
